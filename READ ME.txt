@@ -1,0 +1,2 @@
+Professor, não consegui realizar a seguinte questão: "2. Mostrar os dados em pré ordem, in ordem, e pós ordem".
+Tentei tudo o que pude, porém sem sucesso.
